@@ -1,4 +1,31 @@
-Healthcare Data Analysis (2022–2024)
+<p align="center">
+  <img src="healthcare-excel-powerbi.png"
+       width="100%"
+       alt="Healthcare Analysis Using Excel and Power BI">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POWER%20QUERY-F2C811?style=for-the-badge&logo=microsoft&logoColor=black"/>
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-4472C4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DATA%20MODELING-5B9BD5?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISUALIZATION-ED7D31?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DASHBOARDS-7030A0?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REPORTING-4472C4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HEALTHCARE%20ANALYTICS-00897B?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PROJECT-COMPLETED-70AD47?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</p>
+
+<br>
+
+---
 
 ---
 
